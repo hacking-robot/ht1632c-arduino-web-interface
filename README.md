@@ -42,6 +42,4 @@ Known Issues
 Future Plans
 ------------
 
-
-
-
+- Add variables such as date, time, count and countdown minutes
