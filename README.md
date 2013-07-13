@@ -43,3 +43,4 @@ Future Plans
 ------------
 
 - Add variables such as date, time, count and countdown minutes
+- Automatic Switch on and switch off with default messages on display.
