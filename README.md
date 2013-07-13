@@ -34,6 +34,8 @@ This web interface opens a http server on the arduino. Then you can access it fr
 Bugs & Features
 ===============
 
+Looks like both the HT1632 and ethernet library need to much SRAM memory so it can run on the Arduino Uno
+
 Known Issues
 ------------
 
