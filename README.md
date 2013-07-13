@@ -1,7 +1,7 @@
 HT1632C Web interface for Arduino
 =================================
 
-This is a web interface for the powerful HT1632C bicolor(RG) led matrix library made by gauravmm and forked by flavio-fernandes. (cf http://www.sureelectronics.net/goods.php?id=1095)
+This is a "early stage" web interface for the powerful HT1632C bicolor(RG) led matrix library made by gauravmm and forked by flavio-fernandes. (cf http://www.sureelectronics.net/goods.php?id=1095)
 
 Prerequisites
 =============
@@ -14,6 +14,9 @@ and
 
 - HT1632C library forked by flavio-fernandes (https://github.com/flavio-fernandes/HT1632-for-Arduino)
 - webduino library
+
+![preview](http://github.com/dexnode/ht1632c-arduino-web-interface/blob/master/preview.jpg?raw=true)
+![preview](http://github.com/dexnode/ht1632c-arduino-web-interface/blob/master/preview.gif?raw=true)
 
 Installation
 ============
@@ -34,7 +37,7 @@ This web interface opens a http server on the arduino. Then you can access it fr
 Bugs & Features
 ===============
 
-Looks like both the HT1632 and ethernet libraries need to much SRAM memory so it can run on the Arduino Uno.
+Looks like both the HT1632 and ethernet libraries need too much SRAM memory so it can run on the Arduino Uno.
 
 Known Issues
 ------------
