@@ -1,7 +1,7 @@
 HT1632C Web interface for Arduino
 =================================
 
-This is a web interface for the powerful HT1632C bicolor(RG) led matrix library made by gauravmm and forked by flavio-fernandes. (cf http://www.sureelectronics.net/goods.php?id=1095)
+This is a "early stage" web interface for the powerful HT1632C bicolor(RG) led matrix library made by gauravmm and forked by flavio-fernandes. (cf http://www.sureelectronics.net/goods.php?id=1095)
 
 Prerequisites
 =============
