@@ -10,6 +10,12 @@ You need the flavio-fernandes forked available here: https://github.com/flavio-f
 
 Then follow the instructions to edit the ht1632.h file
 
+Open h1632c-arduino-web-ui.ino and edit the arduino ip address
+
+Upload to your Arduino
+
+Open your browser and enter the address http://{your-arduino-ip-addres}/index.html
+
 Explanation
 -----------
 
