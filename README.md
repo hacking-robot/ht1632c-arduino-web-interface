@@ -17,6 +17,7 @@ and
 
 ![preview](http://github.com/dexnode/ht1632c-arduino-web-interface/blob/master/preview.jpg?raw=true)
 ![preview](http://github.com/dexnode/ht1632c-arduino-web-interface/blob/master/preview.gif?raw=true)
+![preview](http://github.com/dexnode/ht1632c-arduino-web-interface/blob/master/preview2.gif?raw=true)
 
 Installation
 ============
