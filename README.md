@@ -37,7 +37,7 @@ Bugs & Features
 Known Issues
 ------------
 
-1. Using both blinking and scrolling at the two lines at the same makes the animation a little bit slower the more boards you have.
+1. Using both blinking and scrolling on the two lines at the same makes the animation a little bit slower the more boards you have.
 
 Future Plans
 ------------
