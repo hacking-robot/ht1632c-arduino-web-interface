@@ -15,6 +15,9 @@ and
 - HT1632C library forked by flavio-fernandes (https://github.com/flavio-fernandes/HT1632-for-Arduino)
 - webduino library
 
+![preview](http://github.com/dexnode/ht1632c-arduino-web-interface/blob/master/preview.jpg?raw=true)
+![preview](http://github.com/dexnode/ht1632c-arduino-web-interface/blob/master/preview.gif?raw=true)
+
 Installation
 ============
 
