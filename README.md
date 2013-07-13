@@ -8,7 +8,7 @@ Prerequisites
 
 - Arduino Mega 2560
 - Ethernet Shield
-- HT1632 RG Bicolor Led Matrix
+- 1 or 2 HT1632 RG Bicolor Led Matrix boards (might support up to 4 boards)
 
 and
 
