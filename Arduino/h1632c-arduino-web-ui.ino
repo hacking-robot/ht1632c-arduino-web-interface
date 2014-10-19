@@ -93,7 +93,7 @@ void indexCmd(WebServer &server, WebServer::ConnectionType type, char *url_tail,
   {
     clear_line[i]=' ';
   }
-  clear_line[OUT_SIZE+1]='\0';
+  clear_line[OUT_SIZE]='\0';  // sizeof(clear_line) == OUT_SIZE+1
   
   /* this line sends the standard "we're all OK" headers back to the
      browser */
